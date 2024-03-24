@@ -1,0 +1,5 @@
+echo -e  "${tyblue}┌──────────────────────────────────────────┐${NC}"
+echo -e  "${tyblue}│              \033[1;37mTERIMA KASIH                ${tyblue}│${NC}"
+echo -e  "${tyblue}│         \033[1;37mSUDAH MENGGUNAKAN SCRIPT         ${tyblue}│${NC}"
+echo -e  "${tyblue}│                \033[1;37mXlordCode                 ${tyblue}│${NC}"
+echo -e  "${tyblue}└──────────────────────────────────────────┘${NC}"
